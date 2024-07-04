@@ -1,0 +1,84 @@
+First 5 words of Lorem Ipsum:
+Lorem ipsum dolor sit amet
+
+First 10 words of Lorem Ipsum:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+
+First 20 words of Lorem Ipsum:
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+https://canrc.org/
+
+<head>
+        <script src="https://cdn.jsdelivr.net/algoliasearch/3/algoliasearch.min.js" defer=""></script>
+        <script src="https://cdn.jsdelivr.net/autocomplete.js/0/autocomplete.min.js" defer=""></script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBZeWa3uHuCCor9HvwRkeRj68Q3BKn3X0A" defer=""></script>
+        <link rel="stylesheet" href="https://canrc.org/build/assets/app-78a5f11e.css"><script type="module" src="https://canrc.org/build/assets/app-805bd645.js"></script>
+        <script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/57/7/common.js"></script>
+        <script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/57/7/util.js"></script>
+        <title>Canadian Reformed Churches</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <link rel="apple-touch-icon" href="/icon.png">
+        <meta name="csrf-token" content="RmmS2F03dNP3jPP3tnt810XVUzdyX0pKapIkDcxP">
+        <meta name="algolia-id" content="2AR5G2IAPH">
+        <meta name="algolia-key" content="8a3e0ed7abed4f004088569029a80d09">
+        <link rel="alternate" type="application/rss+xml" href="https://canrc.org/news/rss" title="Canadian &amp; American Reformed Churches">
+        <link rel="preload" as="style" href="https://canrc.org/build/assets/app-78a5f11e.css">
+        <link rel="modulepreload" href="https://canrc.org/build/assets/app-805bd645.js">
+        <link rel="modulepreload" href="https://canrc.org/build/assets/_commonjsHelpers-de833af9.js">
+</head>
+
+
+<div class="mt-4 sm:mt-0 w-full sm:w-auto xl:order-last">
+        <div class="relative">
+            <span class="algolia-autocomplete" style="position: relative; display: inline-block; direction: ltr;"><input type="search" id="search" class="search-input input" placeholder="Search" name="search" autocomplete="off" spellcheck="false" role="combobox" aria-autocomplete="list" aria-expanded="false" aria-owns="algolia-autocomplete-listbox-8" dir="auto" style="position: relative; vertical-align: top;"><pre aria-hidden="true" style="position: absolute; visibility: hidden; white-space: pre; font-family: Calibre, system-ui, BlinkMacSystemFont, -apple-system, &quot;Segoe UI&quot;, Roboto, Oxygen, Ubuntu, Cantarell, &quot;Fira Sans&quot;, &quot;Droid Sans&quot;, &quot;Helvetica Neue&quot;, sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 500; word-spacing: 0px; letter-spacing: normal; text-indent: 0px; text-rendering: auto; text-transform: none;"></pre><span class="search-dropdown" role="listbox" id="algolia-autocomplete-listbox-8" style="position: absolute; top: 100%; z-index: 100; display: none; left: 0px; right: auto;"><div class="dataset-9"></div><div class="dataset-10"></div><div class="dataset-11"></div><div class="dataset-12"></div><div class="dataset-13"></div><div class="dataset-14"></div><div class="dataset-15"></div></span></span>
+            <span class="absolute left-0 inset-y-0 px-3 flex items-center pointer-events-none">
+                <svg class="w-4 h-4 fill-grey-dark" viewBox="0 0 20 20">
+                    <path d="M12.9 14.32a8 8 0 1 1 1.41-1.41l5.35 5.33-1.42 1.42-5.33-5.34zM8 14A6 6 0 1 0 8 2a6 6 0 0 0 0 12z"></path>
+                </svg>
+            </span>
+        </div>
+</div>
+
+
+ <div class="pb-6 mb-6 md:pb-10 md:mb-10 xl:pb-12 xl:mb-12 border-b">
+                <a href="https://canrc.org/news/2680" class="font-semibold text-3xl hover:bg-grey-lighter leading-tight">Press release of Classis Alberta (St. Albert) convened on June 20, 2024</a>
+                <div class="mt-3 md:text-xl text-grey-darker flex flex-wrap items-center">
+                    <span class="mr-2 mb-1 text-red">June 29, 2024</span>
+                        <a href="https://canrc.org/assemblies/classis-alberta/2024-06" class="mr-1 mb-1 inline-block bg-teal hover:bg-teal-dark rounded px-3 py-1 text-white text-sm">St. Albert June 2024</a>
+                </div>
+                <div class="mt-8 content text-xl" data-turbolinks="false"><div>On behalf of the convening church of St. Albert, Rev. K. Wieske opened the meeting with the reading of Psalm 25 and those in attendance sang Psalm 25: 2</div><div>&nbsp;</div><div>The following matters were brought before the Lord in prayer: the recent retirement of Rev. Huijgen and the ordination of…</div></div>
+                                                                <div class="mt-10">
+                            <a href="https://canrc.org/news/2680" class="text-teal group">
+                                <span class="group-hover:underline">Read more</span> →
+                            </a>
+                        </div>
+                                    </div>
+                            <div class="pb-6 mb-6 md:pb-10 md:mb-10 xl:pb-12 xl:mb-12 border-b">
+                    <a href="https://canrc.org/news/2679" class="font-semibold text-3xl hover:bg-grey-lighter leading-tight">Immanuel United Reformed Church calls Candidate Zach Vanderploeg</a>
+                    <div class="mt-3 md:text-xl text-grey-darker flex flex-wrap items-center">
+                        <span class="mr-2 mb-1 text-red">June 29, 2024</span>
+                                                                                                                                    <a href="https://canrc.org/ministers/150/zach-vanderploeg" class="mr-1 mb-1 inline-block bg-teal hover:bg-teal-dark rounded px-3 py-1 text-white text-sm">Zach Vanderploeg</a>
+                                                                        </div>
+                    <div class="mt-8 content text-xl" data-turbolinks="false"><div>The Immanuel United Reformed Church of Listowel, Ontario has extended a call to Candidate Zach Vanderploeg.</div></div>
+                                                        </div>
+                            <div class="pb-6 mb-6 md:pb-10 md:mb-10 xl:pb-12 xl:mb-12 border-b">
+                    <a href="https://canrc.org/news/2678" class="font-semibold text-3xl hover:bg-grey-lighter leading-tight">Dunnville East calls Candidate Zach Vanderploeg</a>
+                    <div class="mt-3 md:text-xl text-grey-darker flex flex-wrap items-center">
+                        <span class="mr-2 mb-1 text-red">June 29, 2024</span>
+                                                                                    <a href="https://canrc.org/churches/dunnville-east" class="mr-1 mb-1 inline-block bg-teal hover:bg-teal-dark rounded px-3 py-1 text-white text-sm">Dunnville East</a>
+                                                                                                                                                                <a href="https://canrc.org/ministers/150/zach-vanderploeg" class="mr-1 mb-1 inline-block bg-teal hover:bg-teal-dark rounded px-3 py-1 text-white text-sm">Zach Vanderploeg</a>
+                                                                        </div>
+                    <div class="mt-8 content text-xl" data-turbolinks="false"><div>The Dunnville East Canadian Reformed Church in Ontario has extended a call to Candidate Zach Vanderploeg.</div></div>
+                                                        </div>
+                            <div class="pb-6 mb-6 md:pb-10 md:mb-10 xl:pb-12 xl:mb-12 border-b">
+                    <a href="https://canrc.org/news/2646" class="font-semibold text-3xl hover:bg-grey-lighter leading-tight">Lincoln (Vineyard) calls Candidate Zach Vanderploeg</a>
+                    <div class="mt-3 md:text-xl text-grey-darker flex flex-wrap items-center">
+                        <span class="mr-2 mb-1 text-red">June 28, 2024</span>
+                                                                                    <a href="https://canrc.org/churches/lincoln-vineyard" class="mr-1 mb-1 inline-block bg-teal hover:bg-teal-dark rounded px-3 py-1 text-white text-sm">Lincoln (Vineyard)</a>
+                                                                                                                                                                <a href="https://canrc.org/ministers/150/zach-vanderploeg" class="mr-1 mb-1 inline-block bg-teal hover:bg-teal-dark rounded px-3 py-1 text-white text-sm">Zach Vanderploeg</a>
+                                                                        </div>
+                    <div class="mt-8 content text-xl" data-turbolinks="false"><div>The Vineyard Canadian Reformed Church of Lincoln, Ontario has extended a call to Candidate Zach Vanderploeg.</div></div>
+                                                        </div>
+                    </div>
+
