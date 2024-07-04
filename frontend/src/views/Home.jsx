@@ -7,7 +7,12 @@ import Footer from "../reusables/Footer";
 const Home = () => {
     return (
         <>
-            
+            <Navbar />
+            <Hero />
+            <Cardmap />
+            <Footer />
         </>
     );
 }
+
+export default Home;
